@@ -1,0 +1,21 @@
+ATIVIDADE COMPLEMENTAR 1
+
+Leia o artigo de Cerpa e Verner (Why did your project fail?), 
+disponível em http://dl.acm.org/citation.cfm?id=1610286 e na área de Leituras do ambiente Ensino Aberto, 
+e responda às seguintes questões:
+
+1. No estudo dos autores, qual foi a proporção de projetos de software que falharam? Esse valor é confiável?
+
+	Resposta: A pesquisa dos autores contou com 304 projetos, dos quais 235 foram considerados válidos. Desse montante, havia um total de 70 projetos que falharam, dando uma proporção de 29,7%. Esse pode ser considerado um valor confiável, visto que foram analisados diferentes ambientes, nos Estados Unidos, Australia e Chile. Também havia projetos de diversos tipos e perfis, sendo alguns in-house e outros outsourced, além de projetos com mais de 180 pessoas e outros com menos de 10 na equipe. Apesar disso, o espaço amostral analisado não é grande, contanto com 300 projetos. Considerando que são realizados milhares de projetos de software ao redor do mundo todos os anos, a taxa de cerca de 30% de fracassos por ter uma margem de erro grande.
+
+
+
+2. A figura 1 apresenta os principais fatores de falhas em projetos de software e relações entre eles, mas não dá nome para essas relações. Escolha dois fatores que estejam relacionados e discuta qual a relação que você acha que existe entre elas, justificando sua resposta.
+
+	Resposta: Pensando na etapa de Extração de Requisitos, uma das primeiras e mais importantes do projeto, há duas falhas que sintetizam boa parte do problema nessa etapa. "Delivery date made with inadequate requirements" e "Customer did not make adequate time for requirements" são diretamente relacionadas, como vemos na figura 1. Ao observar que o cliente não se dispôs a dedicar uma quantidade suficiente de tempo para a Extração de Requisitos, fica evidente a falha no planejamento das entregas, já que os próprios requisitos não estavam claros para a equipe de desenvolvimento, e muitas vezes, nem para o próprio cliente (o que, por sua vez, se relaciona com as expectativas não realísticas do cliente sobre o projeto). Esse conjunto de falhas, logo no início do projeto, tem grandes probabilidades de gerar um projeto de fracasso.
+
+
+
+3. Qual é a sugestão dos autores para que futuros projetos de software fracassem menos, e como essa sugestão ajudaria a melhorar os novos projetos?
+
+	Resposta: Os autores se deram conta, ao fazer uma análise dos projetos que fracassaram, em comparação com a literatura existente, inclusive de algumas com mais de trinta anos de idade, que boa parte dos erros cometidos no passado ainda são cometidos em grandes quantidades no presente. Seria interessante, para novos projetos e as empresas que os realizam, que houvesse uma análise cuidadosa de quais são as falhas recorrentes e formas de mitigação desses problemas. Sem a realização dessas pesquisas internas, os projetos fracassados voltarão a acontecer, por causas que poderiam ter sido previstas.
